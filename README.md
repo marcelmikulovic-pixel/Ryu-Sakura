@@ -7,4 +7,4 @@ Mit ihrer einzigartigen Fähigkeit, Kristalle zu erschaffen und zu manipulieren,
 - [Biografe](biografie.md)
 - [Eigenschaften](eigenschaften.txt)
 - [Abenteuer](abenteuer.md)
-- [Extras](extras.md)
+- [Extras](extras.txt)
