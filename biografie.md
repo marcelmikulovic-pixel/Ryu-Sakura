@@ -2,7 +2,7 @@ md
 
 # Biografie
 
-## Name: ## Ryu Sakura
+## Name: Ryu Sakura
 ##Geburtsjahr: ## 1192 n. Shinsei
 ##Herkunft: ## Dorf der Kristallblüte, verborgen im Nebelwald von Hanatori
 
