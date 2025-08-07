@@ -1,2 +1,9 @@
-# Ryu-Sakura
-Ryu Sakura ist eine geheime Ninja-Kriegerin aus dem Kristallorden. Sie kämpft im Verbogenen mit der Macht der Kristalle.
+#  Ryu-Sakura
+Ryu Sakura ist eine geheimnisvolle Ninja-Kriegerin, die aus dem sagenumwobenen Kristallorden stammt.
+Mit ihrer einzigartigen Fähigkeit, Kristalle zu erschaffen und zu manipulieren, schützt sie die Balance zwischen Licht und Schatten.
+
+## Weitere Inhalte
+
+- [Biografe](biografie.md)
+- [Eigenschaften](eigenschaften.txt)
+- [Abenteuer](abenteuerr.md)
