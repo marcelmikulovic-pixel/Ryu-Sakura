@@ -15,4 +15,4 @@ In einem alten Tempel stellte sie sich der Illusion ihrer Vergangenheit und form
 Getarnt als wandernde Heilerin, infiltrierte sie ein besetztes Dorf und befreite die Gefangenen.
 
 ## 5. Der Kristallregen
-Im Kampf gegen einen Dämon erschuf Ryu einen Regen aus heilenden Splittern, um Ihre Vverbündeten zu retten.
+Im Kampf gegen einen Dämon erschuf Ryu einen Regen aus heilenden Splittern, um Ihre Verbündeten zu retten.
